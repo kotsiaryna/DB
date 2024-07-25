@@ -3,7 +3,10 @@
 
 Для запуска сервера: 
 
+ ```
  npm install
- npm start 
+ 
+ npm start
+```
 
 Данные будут доступны по адресу  http://localhost:3000/goods
